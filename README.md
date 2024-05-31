@@ -26,4 +26,4 @@ It is easy to use flashlight app, with Simple flash, SOS flash, Screen flash and
 
 ## Author :
 > Vasant Dave
-> Follow me on Github, LinkedIn for more.
+* Follow me on Github, LinkedIn for more.
